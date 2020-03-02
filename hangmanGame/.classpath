@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry exported="true" kind="lib" path="activemq-all-5.9.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="commons-logging-1.1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="spring-beans-4.0.3.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="spring-context-4.0.3.RELEASE.jar" sourcepath="C:/Users/daniel/.m2/repository/org/springframework/spring-context/4.0.3.RELEASE/spring-context-4.0.3.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="spring-core-4.0.3.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="spring-jms-4.0.3.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="spring-boot-1.1.0.M2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
